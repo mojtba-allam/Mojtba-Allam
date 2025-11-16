@@ -154,6 +154,12 @@ const mojtba = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mojtba-allam&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF)](https://github.com/mojtba-allam)
 
+<p align="center">
+  <a href="https://github.com/mojtba-allam/DSM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mojtba-allam&repo=DSM&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="DSM Repository"/>
+  </a>
+</p>
+
 </details>
 
 </div>
