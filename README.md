@@ -152,7 +152,9 @@ const mojtba = {
 <summary><b>📊 Contribution Graph</b></summary>
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mojtba-allam&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF)](https://github.com/mojtba-allam)
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/mojtba-allam" alt="GitHub Contribution Chart" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/mojtba-allam/DSM">
